@@ -1,1 +1,3 @@
-This is a console application I wrote in the beginning of 9th grade from scratch, to evaluate mathematical expressions. It supports arithmetic operations (including exponentiation) and evaluating certain simple functions. There are some expressions (e.g. sin(x)/x) for which it throws an error when trying to evaluate. 
+This is a console application I wrote in the beginning of 9th grade from scratch, to evaluate mathematical expressions.
+It supports arithmetic operations (including exponentiation) and evaluating certain simple functions. There are some 
+expressions (e.g. sin(x)/x) for which it throws an error when trying to evaluate. 
