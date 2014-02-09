@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Expression Parser" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Globals\;Globals\Exceptions\;Documentation\;Globals\ConstantDef\;Globals\ConstantMappings\;Functions Database\;String\;MathExpression\;MathExpression\__EvaluationTreeNode\;MathExpression\__MathExpressionString\;Classes\;Data Types\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Expression Parser" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Expression Parser" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Abbreviations.h">
+			<Option virtualFolder="Globals\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="ConstantDefs.cpp">
+			<Option virtualFolder="Globals\ConstantDef\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="ConstantDefs.h">
+			<Option virtualFolder="Globals\ConstantDef\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="ConstantMappings.cpp">
+			<Option virtualFolder="Globals\ConstantMappings\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="ConstantMappings.h">
+			<Option virtualFolder="Globals\ConstantMappings\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Enumerations.h">
+			<Option virtualFolder="Globals\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="EvaluationTreeNode.cpp">
+			<Option virtualFolder="Classes\MathExpression\__EvaluationTreeNode\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="EvaluationTreeNode.h">
+			<Option virtualFolder="Classes\MathExpression\__EvaluationTreeNode\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Exceptions.h">
+			<Option virtualFolder="Globals\Exceptions\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="ForwardDecls.h">
+			<Option virtualFolder="Globals\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Functions.cpp">
+			<Option virtualFolder="Functions Database\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Functions.h">
+			<Option virtualFolder="Functions Database\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="GlobalConstants.h">
+			<Option virtualFolder="Globals\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Globals.h">
+			<Option virtualFolder="Globals\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="InputSpecifications.h">
+			<Option virtualFolder="Documentation\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="MathExpression.cpp">
+			<Option virtualFolder="Classes\MathExpression\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="MathExpression.h">
+			<Option virtualFolder="Classes\MathExpression\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="MathExpressionString.cpp">
+			<Option virtualFolder="Classes\MathExpression\__MathExpressionString\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="MathExpressionString.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="MiscInlines.h">
+			<Option virtualFolder="Globals\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Planning.h">
+			<Option virtualFolder="Documentation\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="String.cpp">
+			<Option virtualFolder="String\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="String.h">
+			<Option virtualFolder="String\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Todo.h">
+			<Option virtualFolder="Documentation\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Typedefs.h">
+			<Option virtualFolder="Globals\" />
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<wxsmith version="1">
+				<gui name="wxWidgets" src="" main="" init_handlers="necessary" language="CPP" />
+			</wxsmith>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

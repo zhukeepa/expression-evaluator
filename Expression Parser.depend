@@ -1,0 +1,461 @@
+# depslib dependency file v1.0
+1217103861 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\stringparse.cpp
+	"StringParse.h"
+	"Globals.h"
+	<string>
+	<cctype>
+	<sstream>
+
+1217536952 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\expression.cpp
+	"Expression.h"
+	"Globals.h"
+	"String.h"
+	"ConstantMappings.h"
+	<queue>
+	<map>
+	<utility>
+	<list>
+	<iostream>
+
+1217099810 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\stringparse.h
+	<string>
+	<queue>
+	<sstream>
+	"Globals.h"
+
+1217545225 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\globals.h
+	"Abbreviations.h"
+	"ForwardDecls.h"
+	"Enumerations.h"
+	"Typedefs.h"
+	"GlobalConstants.h"
+	"Exceptions.h"
+	"MiscInlines.h"
+	"ConstantMappings.h"
+
+1221780998 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\main.cpp
+	<iostream>
+	"String.h"
+	"Globals.h"
+	<string>
+	<utility>
+	<cmath>
+	<queue>
+	"MathExpression.h"
+
+1221780997 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\globalconstants.h
+	<list>
+	<map>
+	<vector>
+	<sstream>
+	"ConstantDefs.h"
+	"Typedefs.h"
+
+1221780998 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\typedefs.h
+	<list>
+	<map>
+	"Abbreviations.h"
+	"ForwardDecls.h"
+
+1221780997 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\enumerations.h
+
+1216769577 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\expressiontree.cpp
+	"ExpressionTree.h"
+	"Exceptions.h"
+	"Globals.h"
+	<cmath>
+
+1221780997 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\exceptions.h
+	<string>
+
+1217022539 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\expressiontree.h
+	<vector>
+	<cmath>
+	"operations.h"
+	"Globals.h"
+
+1217094212 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\operations.cpp
+	"Globals.h"
+	"operations.h"
+	<cmath>
+	<list>
+
+1217092955 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\operations.h
+	"Globals.h"
+
+1217537628 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\expression.h
+	"Globals.h"
+	"Functions.h"
+	"String.h"
+	<string>
+	<vector>
+
+1221780997 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\constantdefs.h
+	<list>
+	<map>
+	<vector>
+	"Typedefs.h"
+	"Abbreviations.h"
+
+1221780997 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\constantdefs.cpp
+	"ConstantDefs.h"
+	"Abbreviations.h"
+	"Functions.h"
+	<cmath>
+
+1221012537 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\abbreviations.h
+
+1217365681 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\expressiontreenode.h
+
+1217199718 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\expressiontreenode.cpp
+	"ExpressionTreeNode.h"
+	"Exceptions.h"
+	"Globals.h"
+	<iostream>
+	<cmath>
+
+1221780997 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\constantmappings.h
+	"Abbreviations.h"
+	"Typedefs.h"
+
+1221781987 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\constantmappings.cpp
+	"ConstantMappings.h"
+	"Typedefs.h"
+	"Abbreviations.h"
+	"MiscInlines.h"
+	"Functions.h"
+	"String.h"
+
+1221780997 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\evaluationtreenode.cpp
+	"MathExpression.h"
+	"Exceptions.h"
+	"Globals.h"
+	"String.h"
+	<sstream>
+	<cmath>
+
+1221780997 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\functions.h
+	"Typedefs.h"
+	<list>
+
+1221780997 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\functions.cpp
+	"Globals.h"
+	"Functions.h"
+	<cmath>
+	<list>
+
+1221780998 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\string.cpp
+	"String.h"
+	<sstream>
+	"Exceptions.h"
+	<iostream>
+
+1221781935 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\string.h
+	<map>
+	<queue>
+	<list>
+	<string>
+
+1217374721 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\macros.h
+
+1221780998 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\miscinlines.h
+	"Typedefs.h"
+
+1221780997 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\forwarddecls.h
+
+1221780998 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\mathexpression.h
+	"Globals.h"
+	"Functions.h"
+	"String.h"
+	<string>
+	<vector>
+	"EvaluationTreeNode.h"
+	"MathExpressionString.h"
+
+1221780998 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\mathexpression.cpp
+	"MathExpression.h"
+	"Globals.h"
+	"String.h"
+	"ConstantMappings.h"
+	<queue>
+	<map>
+	<utility>
+	<list>
+	<iostream>
+
+1221780998 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\mathexpressionstring.cpp
+	"Globals.h"
+	"MathExpression.h"
+	"String.h"
+	<sstream>
+
+1221703262 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\mathexpressionstring.h
+
+1221706837 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser\evaluationtreenode.h
+
+1221778387 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\constantmappings.cpp
+	"ConstantMappings.h"
+	"Typedefs.h"
+	"Abbreviations.h"
+	"MiscInlines.h"
+	"Functions.h"
+	"String.h"
+
+1221777397 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\constantmappings.h
+	"Abbreviations.h"
+	"Typedefs.h"
+
+1221008937 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\abbreviations.h
+
+1222041061 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\typedefs.h
+	<list>
+	<map>
+	"Abbreviations.h"
+	"ForwardDecls.h"
+
+1221777397 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\forwarddecls.h
+
+1221777398 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\miscinlines.h
+	"Typedefs.h"
+
+1221777397 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\functions.h
+	"Typedefs.h"
+	<list>
+
+1221954702 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\string.h
+	<map>
+	<queue>
+	<list>
+	<string>
+
+1221777397 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\evaluationtreenode.cpp
+	"MathExpression.h"
+	"Exceptions.h"
+	"Globals.h"
+	"String.h"
+	<sstream>
+	<cmath>
+
+1221777398 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\mathexpression.h
+	"Globals.h"
+	"Functions.h"
+	"String.h"
+	<string>
+	<vector>
+	"EvaluationTreeNode.h"
+	"MathExpressionString.h"
+
+1217541625 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\globals.h
+	"Abbreviations.h"
+	"ForwardDecls.h"
+	"Enumerations.h"
+	"Typedefs.h"
+	"GlobalConstants.h"
+	"Exceptions.h"
+	"MiscInlines.h"
+	"ConstantMappings.h"
+
+1222039347 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\enumerations.h
+
+1221777397 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\globalconstants.h
+	<list>
+	<map>
+	<vector>
+	<sstream>
+	"ConstantDefs.h"
+	"Typedefs.h"
+
+1221777397 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\constantdefs.h
+	<list>
+	<map>
+	<vector>
+	"Typedefs.h"
+	"Abbreviations.h"
+
+1222028330 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\exceptions.h
+	<string>
+
+1221703237 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\evaluationtreenode.h
+
+1222012562 c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\mathexpressionstring.h
+
+1221777397 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\functions.cpp
+	"Globals.h"
+	"Functions.h"
+	<cmath>
+	<list>
+
+1222030072 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\string.cpp
+	"String.h"
+	"Abbreviations.h"
+	<sstream>
+	"Exceptions.h"
+	<iostream>
+
+1221777397 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\constantdefs.cpp
+	"ConstantDefs.h"
+	"Abbreviations.h"
+	"Functions.h"
+	<cmath>
+
+1221951648 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\mathexpression.cpp
+	"MathExpression.h"
+	"Globals.h"
+	"String.h"
+	"ConstantMappings.h"
+	<queue>
+	<map>
+	<utility>
+	<list>
+	<iostream>
+
+1222030665 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\mathexpressionstring.cpp
+	"Globals.h"
+	"MathExpression.h"
+	"String.h"
+	<sstream>
+
+1234328242 source:c:\documents and settings\alex\my documents\codeblocks\c++\expression parser 2\main.cpp
+	<iostream>
+	"String.h"
+	"Globals.h"
+	<string>
+	<utility>
+	<cmath>
+	<exception>
+	<queue>
+	"MathExpression.h"
+
+1221777398 source:d:\codeblocks\c++\expression parser 2\constantdefs.cpp
+	"ConstantDefs.h"
+	"Abbreviations.h"
+	"Functions.h"
+	<cmath>
+
+1221777398 d:\codeblocks\c++\expression parser 2\constantdefs.h
+	<list>
+	<map>
+	<vector>
+	"Typedefs.h"
+	"Abbreviations.h"
+
+1222041062 d:\codeblocks\c++\expression parser 2\typedefs.h
+	<list>
+	<map>
+	"Abbreviations.h"
+	"ForwardDecls.h"
+
+1221008938 d:\codeblocks\c++\expression parser 2\abbreviations.h
+
+1221777398 d:\codeblocks\c++\expression parser 2\forwarddecls.h
+
+1221777398 d:\codeblocks\c++\expression parser 2\functions.h
+	"Typedefs.h"
+	<list>
+
+1221778388 source:d:\codeblocks\c++\expression parser 2\constantmappings.cpp
+	"ConstantMappings.h"
+	"Typedefs.h"
+	"Abbreviations.h"
+	"MiscInlines.h"
+	"Functions.h"
+	"String.h"
+
+1221777398 d:\codeblocks\c++\expression parser 2\constantmappings.h
+	"Abbreviations.h"
+	"Typedefs.h"
+
+1221777400 d:\codeblocks\c++\expression parser 2\miscinlines.h
+	"Typedefs.h"
+
+1221954704 d:\codeblocks\c++\expression parser 2\string.h
+	<map>
+	<queue>
+	<list>
+	<string>
+
+1221777398 source:d:\codeblocks\c++\expression parser 2\evaluationtreenode.cpp
+	"MathExpression.h"
+	"Exceptions.h"
+	"Globals.h"
+	"String.h"
+	<sstream>
+	<cmath>
+
+1221777400 d:\codeblocks\c++\expression parser 2\mathexpression.h
+	"Globals.h"
+	"Functions.h"
+	"String.h"
+	<string>
+	<vector>
+	"EvaluationTreeNode.h"
+	"MathExpressionString.h"
+
+1217541626 d:\codeblocks\c++\expression parser 2\globals.h
+	"Abbreviations.h"
+	"ForwardDecls.h"
+	"Enumerations.h"
+	"Typedefs.h"
+	"GlobalConstants.h"
+	"Exceptions.h"
+	"MiscInlines.h"
+	"ConstantMappings.h"
+
+1222039348 d:\codeblocks\c++\expression parser 2\enumerations.h
+
+1221777398 d:\codeblocks\c++\expression parser 2\globalconstants.h
+	<list>
+	<map>
+	<vector>
+	<sstream>
+	"ConstantDefs.h"
+	"Typedefs.h"
+
+1222028332 d:\codeblocks\c++\expression parser 2\exceptions.h
+	<string>
+
+1221703238 d:\codeblocks\c++\expression parser 2\evaluationtreenode.h
+
+1222012564 d:\codeblocks\c++\expression parser 2\mathexpressionstring.h
+
+1221777398 source:d:\codeblocks\c++\expression parser 2\functions.cpp
+	"Globals.h"
+	"Functions.h"
+	<cmath>
+	<list>
+
+1234328244 source:d:\codeblocks\c++\expression parser 2\main.cpp
+	<iostream>
+	"String.h"
+	"Globals.h"
+	<string>
+	<utility>
+	<cmath>
+	<exception>
+	<queue>
+	"MathExpression.h"
+
+1221951650 source:d:\codeblocks\c++\expression parser 2\mathexpression.cpp
+	"MathExpression.h"
+	"Globals.h"
+	"String.h"
+	"ConstantMappings.h"
+	<queue>
+	<map>
+	<utility>
+	<list>
+	<iostream>
+
+1222030666 source:d:\codeblocks\c++\expression parser 2\mathexpressionstring.cpp
+	"Globals.h"
+	"MathExpression.h"
+	"String.h"
+	<sstream>
+
+1222030074 source:d:\codeblocks\c++\expression parser 2\string.cpp
+	"String.h"
+	"Abbreviations.h"
+	<sstream>
+	"Exceptions.h"
+	<iostream>
+
